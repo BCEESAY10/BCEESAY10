@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bamfa Ceesay
-- 👀 I’m an aspiring in Software developer
+- 👀 I’m an aspiring Software developer
 - 🌱 I’m currently learning Javascript libraries and frameworks
 - 💞️ I’m looking to collaborate on software projects
 - 📫 You can reach me at https://bamfa-portfolio.vercel.app
